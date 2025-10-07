@@ -3,4 +3,3 @@ This is my first GITHUB assignment.
 Main branch content
 Conflict branch content
 
-This is a bad change that we'll revert
